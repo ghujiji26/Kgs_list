@@ -1,4 +1,5 @@
 [
+    { "id": 699, "title": "nill", "category_id": 2, "start_at": "nill" },
     { "id": 698, "title": "Maths Optional Bilingual", "category_id": 2, "start_at": "2025-06-18", "end_at": "2026-04-18", "image_large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/15fdac43-c9e3-49d0-a6d3-021f5d5f1dd5.png", "image_thumb": "https://kgs.nyc3.digitaloceanspaces.com/courses/thumb/15fdac43-c9e3-49d0-a6d3-021f5d5f1dd5.png" },
     { "id": 697, "title": "Hindi Literature Optional", "category_id": 2, "start_at": "2025-06-10", "end_at": "2026-04-10", "image_large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/a17c89dc-8ad9-47a3-a762-f3959765f43f.png", "image_thumb": "https://kgs.nyc3.digitaloceanspaces.com/courses/thumb/a17c89dc-8ad9-47a3-a762-f3959765f43f.png" },
     { "id": 696, "title": "PSIR (राजनीति विज्ञान और अंतर्राष्ट्रीय संबंध) Hindi Medium", "category_id": 2, "start_at": "2025-06-16", "end_at": "2026-04-23", "image_large": "https://kgs.nyc3.digitaloceanspaces.com/courses/large/664d6bf3-f2cd-44cc-b3d4-6a13a0d62172.png", "image_thumb": "https://kgs.nyc3.digitaloceanspaces.com/courses/thumb/664d6bf3-f2cd-44cc-b3d4-6a13a0d62172.png" },
